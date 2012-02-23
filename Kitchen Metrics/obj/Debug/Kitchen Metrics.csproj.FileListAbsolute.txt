@@ -1,0 +1,14 @@
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\Bin\Debug\ApplicationIcon.png
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\Bin\Debug\Background.png
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\Bin\Debug\Kitchen Metrics.dll
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\Bin\Debug\Kitchen Metrics.pdb
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\Bin\Debug\AppManifest.xaml
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\Bin\Debug\Kitchen_Metrics.xap
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\obj\Debug\App.g.i.cs
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\obj\Debug\MainPage.g.i.cs
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\obj\Debug\Kitchen Metrics.g.resources
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\obj\Debug\Kitchen Metrics.dll
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\obj\Debug\Kitchen Metrics.pdb
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\obj\Debug\XapCacheFile.xml
+C:\Users\Christopher\Documents\Visual Studio 2010\Projects\Kitchen Metrics\Kitchen Metrics\obj\Debug\Temperatures.g.i.cs
